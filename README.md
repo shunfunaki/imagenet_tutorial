@@ -39,6 +39,10 @@ $ python predict_cmd.py ../target/sample1.jpg --initmodel ./result/model_iter_10
 ```
 
 
+--
+
+Python 2.7.12
+
 chainer v2.0.2
 
 compute_mean.py, nin.py from [chainer/chainer](https://github.com/chainer/chainer)
