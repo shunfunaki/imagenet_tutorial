@@ -39,4 +39,4 @@ $ python predict_cmd.py ../target/sample1.jpg --initmodel ./result/model_iter_10
 ```
 
 
-compute_mean.py, train_imagenet.py, googlenetbn.py - [chainer/chainer](https://github.com/chainer/chainer)
+compute_mean.py, nin.py from [chainer/chainer](https://github.com/chainer/chainer)
